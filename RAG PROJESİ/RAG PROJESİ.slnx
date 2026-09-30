@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Çözüm Öğeleri/">
+    <File Path="bilgi.txt" />
+    <File Path="main.py" />
+  </Folder>
+  <Project Path="RAG PROJESİ/RAG PROJESİ.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="cc2d70d7-2e04-4789-b8c8-7cf0da40afe2">
+    <Build Project="false" />
+  </Project>
+</Solution>
