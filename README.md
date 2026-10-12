@@ -14,13 +14,13 @@ Bu proje, internet bağlantısına **hiçbir şekilde ihtiyaç duymadan**, tamam
 ---
 
 ## Kurulum ve Gereksinimler
-Kütüphanelerin Yüklenmesi:
+
+* **Kütüphanelerin Yüklenmesi:**
 
 Projenin dosya okuma yetenekleri için gerekli olan Python kütüphanelerini terminalden yükleyin:
-
 pip install pypdf python-docx
 
-Çalıştırma Adımları ve Kullanım Rehberi:
+* **Çalıştırma Adımları ve Kullanım Rehberi:**
 
 Proje klasörünü bilgisayarınıza indirin.
 
