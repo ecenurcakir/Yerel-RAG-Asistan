@@ -1,6 +1,6 @@
 ## Yerel RAG Asistanı
 
-Bu proje, internet bağlantısına **hiçbir şekilde ihtiyaç duymadan**, tamamen yerel (offline) çalışan Python tabanlı bir Soru-Cevap (RAG) asistanıdır. Sistem; kullanıcıların yüklediği **PDF, Word ve metin** formatındaki belgeleri işleyerek, verilerin gizliliğini korur ve kaynak odaklı çalışarak en doğru yanıtları üretir.
+Bu proje, internet bağlantısına **hiçbir şekilde ihtiyaç duymadan**, tamamen yerel (offline) çalışan Python tabanlı bir Soru-Cevap (RAG) asistanıdır. Sistem; kullanıcıların yüklediği PDF, Word ve metin formatındaki belgeleri işleyerek, verilerin gizliliğini korur ve kaynak odaklı çalışarak en doğru yanıtları üretir.
 
 ---
 
